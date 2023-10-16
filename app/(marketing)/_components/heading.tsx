@@ -14,7 +14,7 @@ export const Heading = () => {
         Notion-clone is a connected workspace where <br /> better & faster work
         happens.
       </h3>
-      <Button className="bg-black text-white">
+      <Button>
         Enter Notion-Clone <ArrowRight className="h-4 w-4 ml-2" />
       </Button>
     </div>
